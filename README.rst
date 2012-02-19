@@ -1,12 +1,16 @@
-# Softvérové inžinierstvo #
+=======================
+Softvérové inžinierstvo
+=======================
 
-
-## Intro ##
+-----
+Intro
+-----
 
 Tu budú zverejnené projekty týkajúce sa predmetu Softvérové Inžinierstvo
 na ÚINF PF UPJŠ Košice.
 
-
-## Kontakt/Credits ##
+---------------
+Kontakt/Credits
+---------------
 
 Ferdinand Majerech aka Kiith-Sa kiithsacmp[AT]gmail.com
