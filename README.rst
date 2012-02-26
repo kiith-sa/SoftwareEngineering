@@ -9,6 +9,12 @@ Intro
 Tu budú zverejnené projekty týkajúce sa predmetu Softvérové Inžinierstvo
 na ÚINF PF UPJŠ Košice.
 
+-------
+Zadania
+-------
+
+`Anotácia projektu <https://github.com/kiith-sa/SoftwareEngineering/blob/master/annotation.rst>`_
+
 ---------------
 Kontakt/Credits
 ---------------
