@@ -15,6 +15,8 @@ Zadania
 
 `Anotácia projektu <https://github.com/kiith-sa/SoftwareEngineering/blob/master/annotation.rst>`_
 
+`Recenzia anotácie projektu 4 <https://github.com/kiith-sa/SoftwareEngineering/blob/master/review.rst>`_
+
 ---------------
 Kontakt/Credits
 ---------------
