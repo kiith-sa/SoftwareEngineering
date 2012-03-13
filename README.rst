@@ -17,6 +17,9 @@ Zadania
 
 `Recenzia anotácie projektu 4 <https://github.com/kiith-sa/SoftwareEngineering/blob/master/review.rst>`_
 
+Ganntov diagram projektu: `zdroj <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.gan>`_ a 
+`PNG <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.png>`_
+
 ---------------
 Kontakt/Credits
 ---------------
