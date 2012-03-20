@@ -22,7 +22,7 @@ Ganntov diagram projektu: `zdroj <https://github.com/kiith-sa/SoftwareEngineerin
 
 Používateľské požiadavky:
                                                                              
-* `Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp >`_
+* `Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
 * `GAM              <https://github.com/kiith-sa/SoftwareEngineering/raw/master/GAM.png>`_
 * `Assets           <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Assets.png>`_
 * `Dependencies     <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Dependencies.png>`_
