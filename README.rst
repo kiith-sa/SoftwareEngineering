@@ -20,6 +20,16 @@ Zadania
 Ganntov diagram projektu: `zdroj <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.gan>`_ a 
 `PNG <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.png>`_
 
+Používateľské požiadavky:
+
+* `Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/blob/master/requirementsb.vpp>`_
+* `GAM              <https://github.com/kiith-sa/SoftwareEngineering/blob/master/GAM.png>`_
+* `Assets           <https://github.com/kiith-sa/SoftwareEngineering/blob/master/Assets.png>`_
+* `Dependencies     <https://github.com/kiith-sa/SoftwareEngineering/blob/master/Dependencies.png>`_
+* `Asset management <https://github.com/kiith-sa/SoftwareEngineering/blob/master/Asset_management.png>`_
+* `User interface   <https://github.com/kiith-sa/SoftwareEngineering/blob/master/User_interface.png>`_
+
+
 ---------------
 Kontakt/Credits
 ---------------
