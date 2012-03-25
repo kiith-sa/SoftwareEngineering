@@ -29,6 +29,8 @@ Používateľské požiadavky:
 * `Asset management <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Asset_management.png>`_
 * `User interface   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/User_interface.png>`_
 
+Textová analýza je rozpracovaná k požiadavkam ktoré sú farebne odlíšené
+vo vyexportovaných obrázkoch. 
 
 ---------------
 Kontakt/Credits
