@@ -13,14 +13,17 @@ na ÚINF PF UPJŠ Košice.
 Zadania
 -------
 
-`Anotácia projektu <https://github.com/kiith-sa/SoftwareEngineering/blob/master/annotation.rst>`_
+**`Anotácia projektu <https://github.com/kiith-sa/SoftwareEngineering/blob/master/annotation.rst>`_**
 
-`Recenzia anotácie projektu 4 <https://github.com/kiith-sa/SoftwareEngineering/blob/master/review.rst>`_
+**`Recenzia anotácie projektu 4 <https://github.com/kiith-sa/SoftwareEngineering/blob/master/review.rst>`_ **
 
-Ganntov diagram projektu: `zdroj <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.gan>`_ a 
+**Ganntov diagram projektu:**
+
+`zdroj <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.gan>`_ a 
 `PNG <https://github.com/kiith-sa/SoftwareEngineering/blob/master/timetable.png>`_
 
-Používateľské požiadavky:
+
+**Používateľské požiadavky:**
                                                                              
 * `Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
 * `GAM              <https://github.com/kiith-sa/SoftwareEngineering/raw/master/GAM.png>`_
@@ -31,6 +34,19 @@ Používateľské požiadavky:
 
 Textová analýza je rozpracovaná k požiadavkam ktoré sú farebne odlíšené
 vo vyexportovaných obrázkoch. 
+
+
+**Projekt bol rozšírený o use-case diagramy.**
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+Obrázky:
+
+`01 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U1.png>`_, 
+`02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U2.png>`_, 
+`03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U3.png>`_, 
+`04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U4.png>`_, 
+`05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U5.png>`_
 
 ---------------
 Kontakt/Credits
