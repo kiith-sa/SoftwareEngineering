@@ -42,11 +42,11 @@ vo vyexportovaných obrázkoch.
 
 Obrázky:
 
-`01 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U1.png>`_, 
-`02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U2.png>`_, 
-`03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U3.png>`_, 
-`04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U4.png>`_, 
-`05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U5.png>`_
+`01 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U1.jpg>`_, 
+`02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U2.jpg>`_, 
+`03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U3.jpg>`_, 
+`04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U4.jpg>`_, 
+`05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U5.jpg>`_
 
 ---------------
 Kontakt/Credits
