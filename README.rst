@@ -48,6 +48,16 @@ Obrázky:
 `04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U4.jpg>`_, 
 `05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/U5.jpg>`_
 
+**Projekt bol rozšírený o textové scenáre**
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+Obrázky:
+
+`01 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/text_scenario01.png>`_, 
+`02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/text_scenario02.png>`_, 
+`03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/text_scenario03.png>`_, 
+
 ---------------
 Kontakt/Credits
 ---------------
