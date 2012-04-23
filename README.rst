@@ -58,6 +58,13 @@ Obrázky:
 `02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/text_scenario02.png>`_, 
 `03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/text_scenario03.png>`_, 
 
+**Projekt bol rozšírený o class diagram (subsystému starajúceho sa o zdroje)**
+
+
+`Zdroj   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Obrázok <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Classes.png>`_
+
 ---------------
 Kontakt/Credits
 ---------------
