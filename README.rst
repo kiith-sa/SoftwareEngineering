@@ -9,9 +9,25 @@ Intro
 Tu budú zverejnené projekty týkajúce sa predmetu Softvérové Inžinierstvo
 na ÚINF PF UPJŠ Košice.
 
--------
-Zadania
--------
+--------------
+Zimný semester
+--------------
+
+Use-case diagramy (opravené z predošlého semestra)
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+Obrázky:
+
+`01 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub1.png>`_, 
+`02 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub2.png>`_, 
+`03 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub3.png>`_, 
+`04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub4.png>`_, 
+`05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub5.png>`_
+
+--------------
+Letný semester
+--------------
 
 `Anotácia projektu <https://github.com/kiith-sa/SoftwareEngineering/blob/master/annotation.rst>`_
 
