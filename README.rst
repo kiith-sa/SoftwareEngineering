@@ -25,6 +25,11 @@ Obrázky:
 `04 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub4.png>`_, 
 `05 <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Ub5.png>`_
 
+
+`Testovacie scenáre <https://github.com/kiith-sa/SoftwareEngineering/blob/master/TestScenarios.rst>`_ 
+(kvôli VP problémom oddelene od projektu)
+
+
 --------------
 Letný semester
 --------------
