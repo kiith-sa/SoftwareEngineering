@@ -13,6 +13,13 @@ na ÚINF PF UPJŠ Košice.
 Zimný semester
 --------------
 
+Class diagram:
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Obrázok          <https://github.com/kiith-sa/SoftwareEngineering/raw/master/ClassDiagram.png>`_
+
+
 Use-case diagramy (opravené z predošlého semestra)
 
 `Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
