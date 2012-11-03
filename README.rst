@@ -23,8 +23,7 @@ DÚ 2
 
 `State diagram 1  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/StateMachine1.png>`_
 
-State machine diagrams
-
+`State diagram 2  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/StateMachine2.png>`_
 
 ^^^^
 DÚ 1
