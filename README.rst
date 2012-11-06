@@ -21,6 +21,10 @@ DÚ 3
 
 `Object diagram   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/AssetStorage.png>`_
 
+`Entity relationship diagram (conceptual)  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/ERDconcept.png>`_
+
+`Entity relationship diagram (physical)  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/ERDphysical.png>`_
+
 ^^^^
 DÚ 2
 ^^^^
