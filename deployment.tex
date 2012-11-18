@@ -1,0 +1,174 @@
+\documentclass{beamer}
+\usetheme{Antibes}
+
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+\title{UML deployment diagrams}
+\author{Ferdinand Majerech}
+\institute[UPJŠ]{Univerzita Pavla Jozefa Šafárika v Košiciach\\UPJŠ}
+
+\begin{frame}[plain] 
+  \titlepage
+\end{frame}
+
+
+
+\begin{frame}\frametitle{Overview}
+
+\begin{itemize}
+\item
+  High-level static view of a physical configuration of a system
+\item
+  Hardware, software interaction
+\item
+  Distribution of processing
+\item
+  Nodes \& artifacts, communication between nodes
+\item
+  Nodes: HW, execution environments, etc.
+\item
+  Artifacts: SW running on nodes
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Where are deployment diagrams used}
+
+\begin{itemize}
+\item
+  Embedded systems (e.g. temperature control)
+\item
+  Client-server systems (DB, backend, UI)
+\item
+  Distributed systems
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Node}
+
+\begin{center}
+\includegraphics[scale=0.4]{node.png}
+\end{center}
+
+\begin{itemize}
+\item
+  \textless{}\textless{}device\textgreater{}\textgreater{} nodes:
+  computation resources
+
+  \begin{itemize}
+  \item
+    PC, server, etc.
+  \end{itemize}
+\item
+  \textless{}\textless{}executionEnvironment\textgreater{}\textgreater{}
+  nodes: SW hosting other SW
+
+  \begin{itemize}
+  \item
+    Java VM, DB execution environment, etc.
+  \end{itemize}
+\item
+  In UML: ``3D'' box
+\item
+  Nodes can be nested (VMs on a PC, etc.)
+\item
+  Nodes can communicate (HW connection, protocol, etc.)
+\item
+  Can use other UML relationships (aggregation, etc.)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Deployment Spec}
+
+\begin{center}
+\includegraphics[scale=0.4]{deploymentSpec.png}
+\end{center}
+
+\begin{itemize}
+\item
+  Defines how a node operates (e.g. config file)
+\item
+  Name \& deployment properties
+\item
+  Rectangle divided by line (properties below)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Artifact}
+
+\begin{center}
+\includegraphics[scale=0.4]{artifact.png}
+\end{center}
+
+\begin{itemize}
+\item
+  Deployed on a node
+\item
+  Product of the SW development process
+\item
+  Binary, document, script
+\item
+  E.g; Web site, database table, VCS repo
+\item
+  In UML: rectangle with an icon
+\item
+  Again, can use other UML relationships
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Example}
+
+\begin{center}
+\includegraphics[width=0.85\textwidth]{example.png}
+\end{center}
+
+\end{frame}
+
+\begin{frame}\frametitle{Why use deployment diagrams}
+
+\begin{itemize}
+\item
+  Getting a high-level overview, designing the rough architecture
+\item
+  Consider how to deploy early in development
+\item
+  Helps system installation/maintenance
+\item
+  Not useful for simple applications (how to ``deploy'' VLC?)
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Live example}
+
+\end{frame}
+
+\begin{frame}\frametitle{More info}
+
+\begin{itemize}
+{
+\footnotesize 
+\item
+  \href{http://www.uml-diagrams.org/deployment-diagrams.html}{http://www.uml-diagrams.org/deployment-diagrams.html}
+\item
+  \href{http://www.visual-paradigm.com/VPGallery/diagrams/Deployment.html}{http://www.visual-paradigm.com/VPGallery/diagrams/Deployment.html}
+\item
+  \href{http://www.agilemodeling.com/artifacts/deploymentDiagram.htm}{http://www.agilemodeling.com/artifacts/deploymentDiagram.htm}
+\item
+  \href{http://www.google.com}{http://www.google.com}
+}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}\frametitle{Thank you for your attention!}
+
+\end{frame}
+
+\end{document}
