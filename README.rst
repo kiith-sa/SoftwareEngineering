@@ -13,6 +13,33 @@ na ÚINF PF UPJŠ Košice.
 Zimný semester
 --------------
 
+
+^^^^
+DÚ 4
+^^^^
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Sequence diagram 1   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/AssetDownload.png>`_
+
+`Sequence diagram 2   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/DependencyAssignment.png>`_
+
+`Activity diagram 1   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/DependencyAssignmentActivity.png>`_
+
+`Activity diagram 2   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/AssetUpload.png>`_
+
+^^^^
+DÚ 3
+^^^^
+
+`Zdroj            <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Object diagram   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/AssetStorage.png>`_
+
+`Entity relationship diagram (conceptual)  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/ERDconcept.png>`_
+
+`Entity relationship diagram (physical)  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/ERDphysical.png>`_
+
 ^^^^
 DÚ 2
 ^^^^
