@@ -13,6 +13,15 @@ na ÚINF PF UPJŠ Košice.
 Zimný semester
 --------------
 
+^^^^
+DÚ 5
+^^^^
+
+`Zdroj <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Communication diagram 1   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/AssetDownloadCommunication.png>`_
+
+`Communication diagram 2   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/DependencyAssignmentCommunication.png>`_
 
 ^^^^
 DÚ 4
