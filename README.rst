@@ -14,6 +14,16 @@ Zimný semester
 --------------
 
 ^^^^
+DÚ 6
+^^^^
+
+`Zdroj <https://github.com/kiith-sa/SoftwareEngineering/raw/master/requirementsb.vpp>`_
+
+`Component diagram   <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Component.png>`_
+
+`Deployment diagram  <https://github.com/kiith-sa/SoftwareEngineering/raw/master/Deployment.png>`_
+
+^^^^
 DÚ 5
 ^^^^
 
